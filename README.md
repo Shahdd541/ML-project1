@@ -32,7 +32,8 @@ Usage
 
 Clone this repository:
 
-git clone https://github.com/Shadd541/ML-project1.git
+git clone https://github.com/Shadd541/ML-project1
+.git
 cd Heart_Disease_Project
 
 
